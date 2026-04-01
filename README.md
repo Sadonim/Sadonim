@@ -8,8 +8,7 @@
 
 ## About Me
 
-- Full-Stack Developer (TypeScript / Python)
-- Currently serving in the ROK Army
+- Trying my best what I can do
 - Building side projects with Claude Code
 
 ---
